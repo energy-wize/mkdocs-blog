@@ -1,8 +1,10 @@
-# DF Circles Documentation Project
+# 🌟 DF Circles Documentation Project
 
 Welcome to the DF Circles Documentation repository! This project aims to create a unified, open-source documentation platform for all Circles within our organization. By using MkDocs, we’re building a centralized, collaborative, and structured resource that ensures consistency, simplifies onboarding, enhances knowledge retention, and clarifies roles across all Circles.
 
-## Project Goals
+Go to the site: [Here](https://df-circles.github.io/operations-documentation/)
+
+## 🚀 Project Goals
 
 Among other goals to be outlined in the future, The DF Circles documentation project is designed with the following objectives in mind:
 
@@ -14,7 +16,7 @@ Among other goals to be outlined in the future, The DF Circles documentation pro
 
 With contributions from all Circle members, this project will serve as a valuable reference for current and future teams.
 
-## Getting Started
+## 🏁 Getting Started
 
 To get started with the DF Circles Documentation project, follow these basic setup instructions.
 
@@ -23,7 +25,7 @@ To get started with the DF Circles Documentation project, follow these basic set
 - **Python 3.6+**: MkDocs requires Python 3.6 or higher.
 - **MkDocs**: Install MkDocs by running the command below.
 
-### Setup
+### 🖥 Setup
 
 1. **Clone the repository**:
    ```bash
@@ -43,7 +45,7 @@ To get started with the DF Circles Documentation project, follow these basic set
    ```
    This will launch the documentation locally at `http://127.0.0.1:8000`.
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions from all Circle members to help grow and improve this documentation resource. Here’s how you can contribute:
 
