@@ -1,7 +1,3 @@
-Here’s a temporary `README.md` for your GitHub repository:
-
----
-
 # DF Circles Documentation Project
 
 Welcome to the DF Circles Documentation repository! This project aims to create a unified, open-source documentation platform for all Circles within our organization. By using MkDocs, we’re building a centralized, collaborative, and structured resource that ensures consistency, simplifies onboarding, enhances knowledge retention, and clarifies roles across all Circles.
