@@ -4,7 +4,7 @@ Welcome to the DF Circles Documentation repository! This project aims to create 
 
 ## Project Goals
 
-The DF Circles documentation project is designed with the following objectives in mind:
+Among other goals to be outlined in the future, The DF Circles documentation project is designed with the following objectives in mind:
 
 1. **Consistency**: Establish standardized processes for all Circles, so that every team member follows clear, documented workflows.
 2. **Onboarding**: Provide easy-to-follow resources for new members, making their transition into the Circles smoother and faster.
