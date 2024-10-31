@@ -56,3 +56,5 @@ Further details on contribution guidelines will be provided soon.
 ---
 
 With your help, this documentation project will become a valuable asset for our Circles, providing clarity, consistency, and knowledge-sharing across all teams. Thank you for your contributions!
+
+[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
