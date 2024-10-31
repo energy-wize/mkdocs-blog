@@ -27,13 +27,13 @@ To get started with the DF Circles Documentation project, follow these basic set
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-org/df-circles-docs.git
-   cd df-circles-docs
+   git clone https://github.com/DF-Circles/operations-documentation.git
+   cd operations-documentation
    ```
 
-2. **Install MkDocs and dependencies**:
+2. **Install dependencies**:
    ```bash
-   pip install mkdocs
+   pip install -r requirements.txt
    ```
 
 3. **Run the local server**:
