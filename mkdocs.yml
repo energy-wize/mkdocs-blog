@@ -141,5 +141,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 # Page tree
-nav:
-  - Home: index.md
+# nav:
+#   - Home: index.md
