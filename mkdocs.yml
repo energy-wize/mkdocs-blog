@@ -1,16 +1,16 @@
 # Project information
-site_name: Deep Funding Circles Operations Documentation
-site_url: https://DF-Circles.github.io/operations-documentation
-site_author: DF-WG-Documentation Circle
+site_name: Energy Wize
+site_url: https://github.com/energy-wize/mkdocs-blog
+#site_author: Anthony Oliko & Abiodun Aderounmu
 site_description: >-
   TODO
 
 # Repository
 repo_name: DF-Circles/operations-documentation
-repo_url: https://github.com/DF-Circles/operations-documentation
+repo_url: https://github.com/energy-wize/mkdocs-blog
 
 # Copyright
-copyright: Copyright &copy; 2024 DF-WG-Documentation Circle
+copyright: Copyright &copy; 2024 Energy Wize
 
 # Site Configuration
 theme:
@@ -84,11 +84,11 @@ extra:
     deprecated: Deprecated
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/DF-Circles
+      link: https://github.com/energy-wize/mkdocs-blog
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/deepfunding
+      link: https://www.linkedin.com/company/energy-wize
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/deepfunding
+      link: https://x.com/energy-wize
 
 # Extensions
 markdown_extensions:
