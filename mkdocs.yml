@@ -50,8 +50,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo # The primary color is used for the header, the sidebar, text links and several other components.
-      accent: indigo # The accent color is used to denote elements that can be interacted with, e.g. hovered links, buttons and scrollbars.
+      primary: green # The primary color is used for the header, the sidebar, text links and several other components.
+      accent: green # The accent color is used to denote elements that can be interacted with, e.g. hovered links, buttons and scrollbars.
       toggle:
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -60,7 +60,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: black
-      accent: indigo
+      accent: green
       toggle:
         icon: material/toggle-switch-off
         name: Switch to light mode
