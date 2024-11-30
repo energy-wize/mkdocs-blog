@@ -1,3 +1,8 @@
+### Prerequisites
+
+- **Python 3.6+**: MkDocs requires Python 3.6 or higher.
+- **MkDocs**: Install MkDocs by running the command below.
+
 ## 🏁 Getting Started
 
 To get a local copy up and running, follow these simple steps:
