@@ -26,14 +26,14 @@ jobs:
       run: |
         mkdocs build
 
-    # - name: Deploy to GitHub Pages
-    #   run: |
-    #     mkdocs gh-deploy --force --remote-name origin
-    #   env:
-    #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GH_PAT }}
-        publish_dir: ./site
+      run: |
+        mkdocs gh-deploy --force --remote-name origin
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    # - name: Deploy to GitHub Pages
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   with:
+    #     github_token: ${{ secrets.GH_PAT }}
+    #     publish_dir: ./site
