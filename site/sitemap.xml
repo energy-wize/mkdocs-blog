@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/energy-wize/mkdocs-blog/</loc>
-         <lastmod>2024-11-30</lastmod>
+         <lastmod>2024-12-01</lastmod>
     </url>
     <url>
          <loc>https://github.com/energy-wize/mkdocs-blog/blog/</loc>
-         <lastmod>2024-11-30</lastmod>
+         <lastmod>2024-12-01</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/energy-wize/mkdocs-blog/blog/new_publication/</loc>
+         <lastmod>2024-12-01</lastmod>
     </url>
 </urlset>
