@@ -1,7 +1,6 @@
 # Project information
 site_name: Energy Wize
-# site_url: https://github.com/energy-wize/mkdocs-blog
-site_url: https://blog.energy-wize.com
+site_url: https://github.com/energy-wize/mkdocs-blog
 #site_author: Anthony Oliko & Abiodun Aderounmu
 site_description: >-
   TODO
