@@ -146,4 +146,3 @@ markdown_extensions:
 
 nav:
   - Home Page: 'index.md'
-  - First Publication: 'new_publication.md'
